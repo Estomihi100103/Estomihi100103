@@ -40,7 +40,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="200"/>
 
 🎓 **Information Systems Student** at Del Institute of Technology  
-💡 Passionate about **Web Development**, **Machine Learning**, and **Data Engineering**  
+💡 Passionate about **Software Development** and **AI Engineering**  
 📝 Exploring **Technical Content Writing**  
 🧩 Love solving problems on **HackerRank** and reading tech articles  
 🌱 Always learning something new in the tech world  
